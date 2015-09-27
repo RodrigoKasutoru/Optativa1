@@ -868,6 +868,108 @@
                   </li>    
 	       </ul>
 	   </li>
+	   
+	   
+	   <li>
+	       <h2>IMAGES</h2>
+	       <ul>
+             <li>
+                   img
+                        <ul>
+                            <li>
+                                Define una imagen
+                            </li>
+                               <li>
+                                <img src="darkseid-war.jpg">
+                              </li>
+                        </ul>
+                     </li>
+          <li>
+                   map
+                        <ul>
+                            <li>
+                                Define un mapa de referencias de imagen
+                            </li>
+                               <li>
+                               <img src="darkseid-war.jpg" width="145" height="126" alt="war" usemap="#comic">
+
+                                    <map name="comic">
+                                          <area shape="rect" coords="0,0,82,126" href="" alt="darkside" title="darkside">
+                                          <area shape="rect" coords="90,58,3" href="" alt="antimonitor" title="antimonitor">
+                                    </map>
+                                </li>
+                        </ul>
+                     </li>
+                      <li>
+                    area
+                        <ul>
+                            <li>
+                                Representa  puntos espesificos de una imagen
+                            </li>
+                               <li>
+                               <img src="darkseid-war.jpg" width="145" height="126" alt="war" usemap="#comic">
+
+                                    <map name="comic">
+                                          <area shape="rect" coords="0,0,82,126" href="" alt="darkside" title="darkside">
+                                          <area shape="circle" coords="90,58,3" href="" alt="antimonitor" title="antimonitor">
+                                    </map>
+                                </li>
+                        </ul>
+                     </li>
+                     <li>
+                    canvas
+                        <ul>
+                            <li>
+                                Representa un lienzo de dibujo
+                            </li>
+                               <li>
+                                <canvas id="myCanvas"></canvas>
+
+                                <script>
+                                    var canvas = document.getElementById("myCanvas");
+                                        var ctx = canvas.getContext("2d");
+                                        ctx.fillStyle = "#FF0000";
+                                        ctx.fillRect(0, 0, 80, 80);
+                                    </script>
+                                </li>
+                        </ul>
+                     </li>
+                      <li>
+                     figcaption
+                        <ul>
+                            <li>
+                                Representa un texto de una imagen
+                            </li>
+                               <li>
+                                <figure>
+                                    <img src="darkseid-war.jpg" alt="Darksidewar" width="304" height="228">
+                                    <figcaption>Darkside vs anti-monitor</figcaption>
+                                </figure>
+                                </li>
+                          </ul>
+                     </li>
+                     <li>
+                     figure
+                        <ul>
+                            <li>
+                                Representa un contenedor para una imagen y una leyenda
+                            </li>
+                               <li>
+                                <figure>
+                                    <img src="darkseid-war.jpg" alt="Darksidewar" width="304" height="228">
+                                    <figcaption>Darkside vs anti-monitor</figcaption>
+                                </figure>
+                                </li>
+                          </ul>
+                     </li>
+                     
+                      
+             
+             
+	           
+	           
+	       </ul>
+	   </li>
 	    
 	    
 	    
