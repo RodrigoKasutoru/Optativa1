@@ -8,28 +8,76 @@
 	  <!--Estilo del div con #principal-->
 	  <style rel="stylesheet" href="">
 	   /*Este es el estilo del div con el id principal*/
+	   /*.principal,#secundario
+	   {
+	   	width: 200px;
+	   	height: 200px;
+	   	display: inline-block;
+	   }*/
+	    /*Este es el estilo del div con el id secundario*/
+	  /* #secundario
+	   {
+	   	 padding-top: 20px;
+
+
+	   
+	   	background-color: green;
+	    
+
+	   
+	   }
+	   */
+	   /*#textosecundario
+	   {
+	   	 margin-top: -30px;
+	   	 background-color: blue;
+	   	 margin-left: 10px;
+	   	 margin-right: 10px;
+	   }*/
+
+
 	   #principal
 	   {
-	   	width: 200px;
-	   	height: 200px;
+	   	height: 500px;
 	   	background-color: red;
-
+		width: 900px;
+		color: green;
+		margin-right: auto;
+		margin-left: auto;
 	   }
-	   /*Este es el estilo del div con el id secundario*/
-	   #secundario
-	   {
+	   body{
+	   	margin: 0px;
+	   	padding: 0px;
+	   }
+	   #menu{
+	   	height: 500px;
 	   	width: 200px;
-	   	height: 200px;
-	   	background-color: green;
+	   	background-color: rgba(0,233,0,0.9);
+	   	float: left;
+	   }
+	   #informacion{
+	   	height: 500px;
+	   	width: 700px;
+	   	background-color:  #FF9900;
+	   	float: left;
 	   }
 	  </style>
 </head>
+<!--Este es el div secundario-->
+	<!--<div id="secundario" class="principal"><div id="textosecundario">Verde</div></div>-->
+
 <body>
 	
 	<!--Este es el div principal-->
-	<div id="principal"></div>
-	<!--Este es el div secundario-->
-	<div id="secundario"></div>
+	<div id="principal">
+		<div id="menu">
+			
+		</div>
+		<div id="informacion">
+			
+		</div>
+	</div>
+
 </body>
 </html>
 
