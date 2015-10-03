@@ -1,0 +1,43 @@
+*
+{
+    margin:  0px;
+    padding: 0px;
+}
+body
+{
+    background-image: url(blackboard-backgrounds-wallpapers.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#espacioGato
+{
+    margin-top: 30px;
+    height: 600px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
+#menu
+{
+    width: 200px;
+    height: 600px;
+    background-color: #A8A694;
+    float: left;
+}
+#central
+{
+    width: 600px;
+    height: 600px;
+    background-color:dimgrey;
+    margin-left: 200px;
+}
+.cuadrosGato{
+    height: 180px;
+    width: 180px;
+    background-color:silver;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+}
