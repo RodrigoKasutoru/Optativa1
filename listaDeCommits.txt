@@ -1,0 +1,167 @@
+commit c2a20967b5e70d79c4c9e8843b58894271c3d77b
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sat Oct 3 13:46:16 2015 -0500
+
+    Rediseño del juego del gato se agregaron los cadros del tablero, fondo de pantalla y musica de fondo
+
+commit deccc99745099c25e469c65dce9ee9883c343d31
+Author: 5ASI <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Oct 1 18:44:14 2015 -0500
+
+    se agrego el menú y la parte central del juego del gato
+
+commit baba751c47debdf61102adc931c22a75ca2ed1bf
+Author: 5ASI <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Oct 1 17:09:06 2015 -0500
+
+    inicio de la segunda practica y índex inicial de la parctica
+
+commit 8cada138ace365cad80da2665e079a3666bff059
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Oct 1 10:33:07 2015 -0500
+
+    Se arreglo un problema con las etiquetas de multimedia y base, se agrego informacion referente a la practica en el README
+
+commit 9e08b7adc82e38435ca451b028c3e143b1f966f9
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Oct 1 09:05:20 2015 -0500
+
+    Se  organizo el codigo html
+
+commit 12961f7ad19f45e3e25ac43ec00f880b13633a74
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Oct 1 08:50:57 2015 -0500
+
+    Se agrego la categoria de etiquetas descontinuadas
+
+commit 1fe55ea1c3fdc1ce52660478a6990b8514595331
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Tue Sep 29 08:11:31 2015 -0500
+
+    Ultima prueba de sourcetree desde windows
+
+commit 9aa5e37251abb8f8e5df2eb286daa84e8ba86075
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Tue Sep 29 08:07:12 2015 -0500
+
+    Esta es otra prueba de sourcetree desde windows
+
+commit 3f59475977795accba4c826ed6224f57ec031817
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Tue Sep 29 08:01:04 2015 -0500
+
+    usando sourcetree desde windows
+
+commit 2fd217f27363e729ae50a87ac0784971c80db1e1
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Mon Sep 28 10:37:45 2015 -0500
+
+    Se agrego la categoria de etiquetas de programacion
+
+commit 32ba00138c84b83ee40448a606a1f666341c5d60
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Mon Sep 28 10:36:28 2015 -0500
+
+    Subir
+
+commit 3a9845fb2d3d72c98c0da4e26e6db1d3fc5d8aa1
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Mon Sep 28 10:11:06 2015 -0500
+
+    Se agrego la categoria de etiquetas meta info
+
+commit a43630b64b1c2f121470d58f5913e2181e6fa14a
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Mon Sep 28 09:24:17 2015 -0500
+
+    Se agrego la categoria de etiquetas de estilos y semantica
+
+commit 5ff4c45a34e0edb3b4ab489576d0b9d3c6e992cb
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Mon Sep 28 09:01:04 2015 -0500
+
+    Se agrego la categoria de etiquetas de tablas
+
+commit b12af34105a02d70edc6df2f51508d4024d06835
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 15:06:48 2015 -0500
+
+    Se agrego la categoria de etiquetas de listas
+
+commit 9b2e94ffb3033ac32c9e23afffa1544d6ae46f03
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 14:19:15 2015 -0500
+
+    Se agrego la categoria de etiquetas de links
+
+commit eef0ee1030cd7d9ae19341d5b840902c72af6218
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 14:02:03 2015 -0500
+
+    Se agrego la categoria de etiquetas de video y audio
+
+commit 37f8897db193cbb8ae0e10a5ced284eaa6eb2e5c
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 12:18:02 2015 -0500
+
+    Se agrego la categoria de etiquetas de imagen
+
+commit fd277710425c124f4e237b4f81ea0c2a856ce229
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 11:44:37 2015 -0500
+
+    Se agrego la categoria de etiquetas frame
+
+commit a32557b061d56f455fc300ca6ec662de6a509d3a
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 11:25:10 2015 -0500
+
+    Se agrego la categoria de etiquetas de formularios
+
+commit 36776d85158c4d4ed0ceb8af56a9e9789304e0c2
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 10:51:13 2015 -0500
+
+    Se agrego la categoria de etiquetas de formato
+
+commit 3af303e25b5fe646dccdf5be4d94e80ac5c6aa00
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 08:51:38 2015 -0500
+
+    Se agrego laa categoria de etiquetas basicas de html
+
+commit dcd27635aa448994d848a4734a27ac89087b1f22
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Sun Sep 27 08:31:07 2015 -0500
+
+    Ordenamiento de las etiquetas html por categorias
+
+commit 1551ddef5694d91ad22a56ad5af42bbe662e50d9
+Author: JesusRodrigoCastorHuerta <jesusrodrigocastorhuerta@gmail.com>
+Date:   Fri Sep 25 00:05:37 2015 -0500
+
+    Ordenamiento en orden alfabetico de las  etiquetas del a y algunas del b
+
+commit cf54d3afd4cd933106fb65ccb62b0d60d9209106
+Author: 5ASI <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Sep 24 19:07:33 2015 -0500
+
+    agregar las etiquetas de tabla a la lista
+
+commit f5f334b5a48809767037ca0e87e5002c7f5c5861
+Author: 5ASI <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Sep 24 18:58:48 2015 -0500
+
+    agregación de una lista con las etiquetas h y strong
+
+commit 3fb6f2602b7401e139dab9fc2ed19a38e29d8ddb
+Author: 5ASI <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Sep 24 18:27:43 2015 -0500
+
+    Esta es la practica inicial de etiquetas
+
+commit b8d458a8b0dbe5d465ad731ff77334ea0d4e759f
+Author: 5ASI <jesusrodrigocastorhuerta@gmail.com>
+Date:   Thu Sep 24 17:49:02 2015 -0500
+
+    Este es el primer commit del inicio del repositorio
